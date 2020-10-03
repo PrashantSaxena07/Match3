@@ -1,7 +1,5 @@
     Match-3 Remake
 
-    Author: Manav Sinha
-    manavsinha111@gmail.com
 
     Match-3 has taken several forms over the years, with its roots in games
     like Tetris in the 80s. Bejeweled, in 2001, is probably the most recognized
